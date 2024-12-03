@@ -8,9 +8,6 @@ This repository serves as a structured workspace for conducting experiments, imp
 
 ## Repository Structure
 
-- `/experiments`: Directory for various AI experiments and proof-of-concept implementations
-- `/models`: Storage for trained models, model configurations, and related artifacts
-- `/data`: Sample datasets and data processing utilities
 - `/notebooks`: Jupyter notebooks for interactive experimentation and analysis
 - `/docs`: Comprehensive documentation and research notes
 
@@ -26,6 +23,9 @@ This repository serves as a structured workspace for conducting experiments, imp
    - Create a virtual environment
    - Install required dependencies
    - Configure your AI development tools
+
+3. Now have fun!
+   - [Youtube Summarizer](/notebooks/youtube_summarizer.ipynb)
 
 ## Contributing
 
